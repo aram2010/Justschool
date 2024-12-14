@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.autumn {
+  min-height: 100vh;
+  /* max-width: 900px; */
+  /* margin: 0 auto; */
+  background-image: url("./imgs/automn.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: end;
+}
+
+.au2mn-text {
+  margin-left: 100px;
+  margin-bottom: 140px;
+  color: #fff;
+}
+
+.btn1 {
+  padding: 10px;
+  background-color: #fff;
+  color: black;
+  border: 0;
+}
+
+.btn1:hover {
+  background-color: transparent;
+  border: 1px solid #fff;
+}
+
+.text {
+  margin-bottom: 20px;
+}
+
+.text2 {
+  margin-top: 20px;
+}
+
+.autumnh1 {
+  font-size: 20px;
+  font-weight: 10;
+}
